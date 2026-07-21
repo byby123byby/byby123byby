@@ -7,7 +7,7 @@ Currently exploring **multimodal agents**, **accessible AI**, and **creative AI 
 ## What I am building
 
 - **SuperVision** — multimodal accessibility research and an interaction prototype.
-- **Askread** — a private workflow that turns articles and concepts into comic content; 50+ posts generated and 5 high-engagement posts published through “问阅绘”.
+- **Askread** — a private workflow that turns articles and concepts into comic content; 50+ posts published, including 5 high-engagement posts, through “问阅绘”.
 - **Accessible AI Assistant** — a SwiftUI prototype for VoiceOver-first interaction and confirmation before an AI action.
 
 ## My working loop
@@ -32,4 +32,5 @@ Some project code is private while it is being developed with collaborators. Cou
 ## A small personal note
 
 I enjoy turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
+
 
