@@ -35,6 +35,6 @@ Some project code is private while it is being developed with collaborators. Cou
 
 ## Outside the code
 
-I enjoy nearby nature, hot springs, chess, and following financial markets. I also like turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
+I enjoy nature, hot springs, board games, and following financial markets. I also like turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
 
 
