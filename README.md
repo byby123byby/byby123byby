@@ -1,16 +1,35 @@
-## Hi there 👋
+# Boyuan Zhou
 
-<!--
-**byby123byby/byby123byby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small AI systems that turn messy ideas into usable experiences.
 
-Here are some ideas to get you started:
+Currently exploring **multimodal agents**, **accessible AI**, and **creative AI workflows** — especially the engineering between a model call and a result people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am building
+
+- **SuperVision** — multimodal accessibility research and an interaction prototype.
+- **Askread** — a private workflow that turns articles and concepts into comic content; 50+ posts generated and 5 high-engagement posts published through “问阅绘”.
+- **Accessible AI Assistant** — a SwiftUI prototype for VoiceOver-first interaction and confirmation before an AI action.
+
+## My working loop
+
+```text
+idea → structured plan → model call → validation → usable output → feedback
+```
+
+I like making model behavior inspectable and revisable rather than treating one response as the product.
+
+## Technical interests
+
+`Python` · `SwiftUI` · `multimodal AI` · `AI agents` · `structured generation` · `evaluation` · `accessibility`
+
+## Other work
+
+- **RecallGuard / Medical Pantry** — React Native team project for medical-product recall and inventory workflows.
+- **Traffic incident severity prediction** — data/ML coursework using data integration, clustering, and supervised model comparison.
+
+Some project code is private while it is being developed with collaborators. Coursework repositories are kept separate from the main showcase.
+
+## A small personal note
+
+I enjoy turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
+
