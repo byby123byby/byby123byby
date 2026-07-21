@@ -25,7 +25,8 @@ I like making model behavior inspectable and revisable rather than treating one 
 ## Other work
 
 - **RecallGuard / Medical Pantry** — React Native team project for medical-product recall and inventory workflows.
-- **Traffic incident severity prediction** — data/ML coursework using data integration, clustering, and supervised model comparison.
+- **EODP — traffic incident severity prediction** — data integration, clustering, and supervised model comparison for traffic-risk analysis.
+- **Askread / by-data-cleaning** — a Python service that cleans multilingual articles and returns structured metadata and body text as JSON.
 
 Some project code is private while it is being developed with collaborators. Coursework repositories are kept separate from the main showcase.
 
