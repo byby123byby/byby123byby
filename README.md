@@ -2,6 +2,8 @@
 
 I build small AI systems that turn messy ideas into usable experiences.
 
+[LinkedIn](https://www.linkedin.com/in/%E5%B8%9B%E8%BF%9C-%E5%91%A8-a88b3834b/)
+
 Currently exploring **multimodal agents**, **accessible AI**, and **creative AI workflows** — especially the engineering between a model call and a result people can actually use.
 
 ## What I am building
