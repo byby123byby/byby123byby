@@ -33,8 +33,8 @@ I like making model behavior inspectable and revisable rather than treating one 
 
 Some project code is private while it is being developed with collaborators. Coursework repositories are kept separate from the main showcase.
 
-## A small personal note
+## Outside the code
 
-I enjoy turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
+I enjoy nearby nature, hot springs, chess, and following financial markets. I also like turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
 
 
