@@ -1,3 +1,5 @@
+<p align="right"><a href="./README.zh-CN.md">中文</a> · <strong>English</strong></p>
+
 # Boyuan Zhou
 
 I build small AI systems that turn messy ideas into usable experiences.
