@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/%E5%B8%9B%E8%BF%9C-%E5%91%A8-a88b3834b/">领英</a> · 欢迎和我互关与链接
 </p>
 
-<img src="./github-paleobiology-divider.png" alt="赛博古生物分隔线" />
+<img src="./github-paleobiology-fossil-story-v2.png" alt="赛博古生物化石故事" />
 
 ## 🧪 研究札记
 
@@ -46,23 +46,44 @@
 - **Askread / by-data-cleaning** —— 使用 Python 清洗多语言文章并返回结构化 JSON 的服务。
 - **COMP30023 系统项目** —— 使用 C 完成调度和客户端/服务器网络相关系统项目。
 
-<img src="./github-paleobiology-divider.png" alt="赛博古生物分隔线" />
+<img src="./github-paleobiology-deep-story-v2.png" alt="赛博古生物深层故事" />
 
 ## 🧰 现场工具箱
 
 <p>
+  <strong>编程语言</strong><br />
   <img src="https://img.shields.io/badge/Python-0b1620?style=for-the-badge&logo=python&logoColor=65e6d2" alt="Python" />
-  <img src="https://img.shields.io/badge/SwiftUI-0b1620?style=for-the-badge&logo=swift&logoColor=65e6d2" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/React_Native-0b1620?style=for-the-badge&logo=react&logoColor=65e6d2" alt="React Native" />
   <img src="https://img.shields.io/badge/C-0b1620?style=for-the-badge&logo=c&logoColor=f2b66d" alt="C" />
-  <img src="https://img.shields.io/badge/Multimodal_AI-0b1620?style=for-the-badge&logoColor=65e6d2" alt="Multimodal AI" />
-  <img src="https://img.shields.io/badge/Accessibility-0b1620?style=for-the-badge&logoColor=f2b66d" alt="Accessibility" />
+  <img src="https://img.shields.io/badge/Java-0b1620?style=for-the-badge&logo=openjdk&logoColor=f2b66d" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-0b1620?style=for-the-badge&logo=javascript&logoColor=65e6d2" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-0b1620?style=for-the-badge&logo=postgresql&logoColor=65e6d2" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-0b1620?style=for-the-badge&logo=r&logoColor=f2b66d" alt="R" />
+  <img src="https://img.shields.io/badge/MATLAB-0b1620?style=for-the-badge&logo=mathworks&logoColor=f2b66d" alt="MATLAB" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=byby123byby&show_icons=true&hide_border=true&bg_color=0b1620&title_color=65e6d2&icon_color=f2b66d&text_color=c9e7e7&rank_icon=github" alt="GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byby123byby&layout=compact&hide_border=true&bg_color=0b1620&title_color=65e6d2&text_color=c9e7e7" alt="语言分布" />
+<p>
+  <strong>AI · 数据 · 系统</strong><br />
+  <img src="https://img.shields.io/badge/Multimodal_AI-0b1620?style=for-the-badge&logoColor=65e6d2" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/AI_Agents-0b1620?style=for-the-badge&logoColor=65e6d2" alt="AI 智能体" />
+  <img src="https://img.shields.io/badge/Polars-0b1620?style=for-the-badge&logoColor=65e6d2" alt="Polars" />
+  <img src="https://img.shields.io/badge/pandas-0b1620?style=for-the-badge&logo=pandas&logoColor=65e6d2" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-0b1620?style=for-the-badge&logo=scikitlearn&logoColor=f2b66d" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Structured_Output-0b1620?style=for-the-badge&logoColor=f2b66d" alt="结构化输出" />
 </p>
+
+<p>
+  <strong>应用 · 协作</strong><br />
+  <img src="https://img.shields.io/badge/SwiftUI-0b1620?style=for-the-badge&logo=swift&logoColor=65e6d2" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React_Native-0b1620?style=for-the-badge&logo=react&logoColor=65e6d2" alt="React Native" />
+  <img src="https://img.shields.io/badge/VoiceOver-0b1620?style=for-the-badge&logo=apple&logoColor=65e6d2" alt="VoiceOver" />
+  <img src="https://img.shields.io/badge/Accessibility-0b1620?style=for-the-badge&logoColor=f2b66d" alt="无障碍技术" />
+  <img src="https://img.shields.io/badge/Git-0b1620?style=for-the-badge&logo=git&logoColor=f2b66d" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0b1620?style=for-the-badge&logo=jira&logoColor=65e6d2" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-0b1620?style=for-the-badge&logo=confluence&logoColor=65e6d2" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Discord-0b1620?style=for-the-badge&logo=discord&logoColor=f2b66d" alt="Discord" />
+</p>
+
+<p><a href="https://github.com/byby123byby?tab=repositories">浏览生态缸里的样本 → 仓库</a></p>
 
 ## 🌿 生态缸之外
 
