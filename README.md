@@ -1,5 +1,7 @@
 <p align="right"><a href="./README.zh-CN.md">中文</a> · <strong>English</strong></p>
 
+![Cyber ecological tank](./github-profile-banner.png)
+
 # Boyuan Zhou
 
 I build small AI systems that turn messy ideas into usable experiences.
