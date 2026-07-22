@@ -1,44 +1,71 @@
 <p align="right"><a href="./README.zh-CN.md">中文</a> · <strong>English</strong></p>
 
-![Cyber ecological tank](./github-profile-banner.png)
+![Cyber paleobiology terrarium](./github-profile-banner.png)
 
-# Boyuan Zhou
+<h2>🧬 Boyuan Zhou · AI Agent Builder</h2>
 
-I build small AI systems that turn messy ideas into usable experiences.
+<p>I turn model capabilities into usable experiences — from accessible multimodal agents to creative AI workflows and interactive prototypes.</p>
 
-[LinkedIn](https://www.linkedin.com/in/%E5%B8%9B%E8%BF%9C-%E5%91%A8-a88b3834b/) · Feel free to connect
+<p>
+  <code>Computing and Software Systems</code> · <code>Melbourne</code> · <code>AI agent direction</code>
+</p>
 
-Currently exploring **multimodal agents**, **accessible AI**, and **creative AI workflows** — especially the engineering between a model call and a result people can actually use.
+<p>
+  <a href="https://www.linkedin.com/in/%E5%B8%9B%E8%BF%9C-%E5%91%A8-a88b3834b/">LinkedIn</a> · Feel free to connect
+</p>
 
-## What I am building
+<img src="./github-paleobiology-divider.png" alt="Cyber paleobiology divider" />
 
-- **SuperVision** — multimodal accessibility research and an interaction prototype.
-- **Askread** — a private workflow that turns articles and concepts into comic content; 50+ posts published, including 5 high-engagement posts, through “问阅绘”.
-- **Accessible AI Assistant** — a SwiftUI prototype for VoiceOver-first interaction and confirmation before an AI action.
+## 🧪 Field notes
 
-## My working loop
+I like building at the boundary between model behavior and real interaction:
 
-```text
-idea → structured plan → model call → validation → usable output → feedback
-```
+- **Research** — accessible multimodal agents and VoiceOver-first interaction.
+- **Making** — creative AI workflows that turn ideas into comic content and usable outputs.
+- **Engineering** — small systems with structured generation, validation, and feedback loops.
 
-I like making model behavior inspectable and revisable rather than treating one response as the product.
+## 🦴 Active specimens
 
-## Technical interests
+### SuperVision
 
-`Python` · `SwiftUI` · `multimodal AI` · `AI agents` · `structured generation` · `evaluation` · `accessibility`
+Multimodal accessibility research and an interaction prototype exploring how an AI assistant can support accessible tasks.
 
-## Other work
+### Askread / 问阅绘
+
+A private creative workflow that turns articles and concepts into comic content: **50+ posts published**, including **5 high-engagement posts**.
+
+### Accessible AI Assistant
+
+A SwiftUI prototype designed around VoiceOver-first interaction and confirmation before an AI action.
+
+## 🔬 Other systems
 
 - **RecallGuard / Medical Pantry** — React Native team project for medical-product recall and inventory workflows.
 - **EODP — traffic incident severity prediction** — data integration, clustering, and supervised model comparison for traffic-risk analysis.
-- **Askread / by-data-cleaning** — a Python service that cleans multilingual articles and returns structured metadata and body text as JSON.
+- **Askread / by-data-cleaning** — a Python service that cleans multilingual articles and returns structured JSON.
 - **COMP30023 systems projects** — C implementations covering scheduling and client/server networking.
 
-Some project code is private while it is being developed with collaborators. Coursework repositories are kept separate from the main showcase.
+<img src="./github-paleobiology-divider.png" alt="Cyber paleobiology divider" />
 
-## Outside the code
+## 🧰 Field kit
 
-I enjoy nature, hot springs, board games, and following financial markets. I also like turning abstract ideas into something people can see, test, and react to — sometimes an experiment, sometimes a tool, sometimes a comic.
+<p>
+  <img src="https://img.shields.io/badge/Python-0b1620?style=for-the-badge&logo=python&logoColor=65e6d2" alt="Python" />
+  <img src="https://img.shields.io/badge/SwiftUI-0b1620?style=for-the-badge&logo=swift&logoColor=65e6d2" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React_Native-0b1620?style=for-the-badge&logo=react&logoColor=65e6d2" alt="React Native" />
+  <img src="https://img.shields.io/badge/C-0b1620?style=for-the-badge&logo=c&logoColor=f2b66d" alt="C" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-0b1620?style=for-the-badge&logoColor=65e6d2" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/Accessibility-0b1620?style=for-the-badge&logoColor=f2b66d" alt="Accessibility" />
+</p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=byby123byby&show_icons=true&hide_border=true&bg_color=0b1620&title_color=65e6d2&icon_color=f2b66d&text_color=c9e7e7&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byby123byby&layout=compact&hide_border=true&bg_color=0b1620&title_color=65e6d2&text_color=c9e7e7" alt="Most used languages" />
+</p>
+
+## 🌿 Outside the tank
+
+Nature, hot springs, board games, financial markets, and turning abstract ideas into things people can see, test, and react to.
+
+Some project code is private while it is being developed with collaborators; coursework repositories are kept separate from the main showcase.
 
