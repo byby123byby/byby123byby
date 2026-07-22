@@ -1,5 +1,7 @@
 <p align="right"><strong>中文</strong> · <a href="./README.md">English</a></p>
 
+![赛博生态缸](./github-profile-banner.png)
+
 # 周帛远
 
 我喜欢把不够清晰的想法，做成可以使用的小型 AI 系统。
