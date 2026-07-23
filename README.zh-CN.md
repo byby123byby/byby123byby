@@ -25,6 +25,10 @@
 - **创作** —— 将想法转化为漫画内容和可使用输出的 AI 工作流。
 - **工程** —— 结构化生成、结果校验和反馈闭环组成的小型系统。
 
+<p align="center">
+  <img src="./devonian-ammonoid.gif" width="100" alt="早期菊石类原地旋转" />
+</p>
+
 ## 🦴 当前样本
 
 ### SuperVision
@@ -38,6 +42,10 @@
 ### Accessible AI Assistant
 
 围绕 VoiceOver 优先交互和 AI 操作确认设计的 SwiftUI 原型。
+
+<p align="center">
+  <img src="./devonian-trilobite.gif" width="100%" alt="一只泥盆纪三叶虫从左向右穿过沉积物" />
+</p>
 
 ## 🔬 其他系统
 
