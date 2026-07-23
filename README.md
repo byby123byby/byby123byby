@@ -25,6 +25,10 @@ I like building at the boundary between model behavior and real interaction:
 - **Making** — creative AI workflows that turn ideas into comic content and usable outputs.
 - **Engineering** — small systems with structured generation, validation, and feedback loops.
 
+<p align="center">
+  <img src="./devonian-ammonoid.gif" width="100" alt="An early ammonoid shell rotating in place" />
+</p>
+
 ## 🦴 Active specimens
 
 ### SuperVision
@@ -38,6 +42,10 @@ A private creative workflow that turns articles and concepts into comic content:
 ### Accessible AI Assistant
 
 A SwiftUI prototype designed around VoiceOver-first interaction and confirmation before an AI action.
+
+<p align="center">
+  <img src="./devonian-trilobite.gif" width="100%" alt="A Devonian trilobite crossing the sediment from left to right" />
+</p>
 
 ## 🔬 Other systems
 
