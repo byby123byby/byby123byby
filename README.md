@@ -98,3 +98,5 @@ A SwiftUI prototype designed around VoiceOver-first interaction and confirmation
 Nature, hot springs, board games, financial markets, and turning abstract ideas into things people can see, test, and react to.
 
 Some project code is private while it is being developed with collaborators; coursework repositories are kept separate from the main showcase.
+
+[![Squash · ready to earn](https://app.squash.ci/badge/195271124.svg?v=2)](https://app.squash.ci/u/195271124)
